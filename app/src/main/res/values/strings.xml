@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">MyPlaner</string>
+    <string name="near_by_stops">Near By Stops</string>
+
 </resources>
